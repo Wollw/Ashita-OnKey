@@ -21,6 +21,7 @@ Meta/Windows: ``/alias /onkey_VK_F13_meta /mycommandhere``
 
 Apps: ``/alias /onkey_VK_F13_apps /mycommandhere``
 
-Combinations of mondifiers can also be configured, but the order of modifiers is undocumented; take a look at the order in the source if you want.  Also, Alt is technically supported as a modifier but due to issues with it being misread as held when alt tabbing I have personally commented it out as it was annoying.
+Combinations of modifiers can also be configured, but the order of modifiers is undocumented; take a look at the order in the source if you want.  Also, Alt is technically supported as a modifier but due to issues with it being misread as held when alt tabbing I have personally commented it out as it was annoying.
+
 
 
